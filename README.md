@@ -6,7 +6,7 @@ To run this web application locally, you must follow the steps indicated below:
 
 1. Clone this repository
 ```bash
-git clone [https://github.com/00010401/notes111]
+git clone https://github.com/00010401/notes111
 ```
 
 2. Install dependencies

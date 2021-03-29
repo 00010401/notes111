@@ -81,6 +81,22 @@ a:hover{
     font-family: inherit;
 }
 
+.error{
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid red;
+    font-size: 1.2rem;
+    color: red;
+}
+
+.success{
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid green;
+    font-size: 1.2rem;
+    color: green;
+}
+
 /* note list styles */
 .note-wrapper{
     max-width: 60%;

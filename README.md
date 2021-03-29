@@ -2,7 +2,7 @@
 
 ### This web application allows users to create, edit, delete notes.
 
-## To run this web application locally, you must follow the steps indicated below:
+To run this web application locally, you must follow the steps indicated below:
 
 1. Clone this repository
 ```bash
@@ -10,7 +10,7 @@ git clone [repository link]
 ```
 
 2. Install dependencies
-``bash
+```bash
 cd [project folder]
 npm install
 ```
